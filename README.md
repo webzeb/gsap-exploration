@@ -1,5 +1,3 @@
-# gsap-exploration
-
 # GSAP Exploration
 
 A project to explore and experiment with GSAP (GreenSock Animation Platform) animations.
